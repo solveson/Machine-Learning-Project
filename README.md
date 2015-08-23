@@ -7,4 +7,4 @@ It contains several files:
  * An HTML file that resulted from knitting the RMD file.
  * An HTML index that is supposed to point to github.io, but doesn't work.
 
-**I recommend** that you view the RMD file on line by clicking on the link for best clarity.
+**I recommend** that you view the RMD file online by clicking on the RMD link above for best clarity.
